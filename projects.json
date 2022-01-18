@@ -138,5 +138,15 @@
         "project_techs": "Python, JS, PHP (API OwnCloud/NextCloud)",
         "project_report": "-1",
         "project_type": "Pro"
+    },
+    "15": {
+        "project_id": 15,
+        "project_title": "Lottery statistics scraping, analysis, pattern recognition & covering systems reproduction",
+        "project_desc": "-",
+        "project_git": "-1",
+        "project_date": "Aug. 2021 - Present",
+        "project_techs": "Python",
+        "project_report": "-1",
+        "project_type": "P"
     }
 }
