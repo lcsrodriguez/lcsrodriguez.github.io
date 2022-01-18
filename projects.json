@@ -1,0 +1,142 @@
+{
+    "1": {
+        "project_id": 1,
+        "project_title": "C++ European option pricer via Finite Difference methods",
+        "project_desc": "- Study of European option in financial engineering litterature\n- Transformation of Black-Scholes-Merton PDE's equation into diffusion equation problem\n- Implementation of C++ pricing tools using strong and optimized OOP architecture\n- Development of an enhanced and complete wrapper of SDL (Smart DirectMedia Layer) libraries to build professional scatter plots from scratch",
+        "project_git": "https://github.com/lcsrodriguez/ENSIIE_S3_PAP_BLACK_SCHOLES_CPP",
+        "project_date": "Dec. 2021 - Jan. 2022",
+        "project_report": "https://github.com/lcsrodriguez/ENSIIE_S3_PAP_BLACK_SCHOLES_CPP/blob/main/docs/rapport.pdf",
+        "project_techs": "C++, Python",
+        "project_type": "A"
+    },
+    "2": {
+        "project_id": 2,
+        "project_title": "Financial market modeling - Various European options pricing tools",
+        "project_desc": "Theoretical study and numerical implementation of several pricing methods\n- Discrete-time solution using the CRR model\n- Enhancement of the first solution using the Black-Scholes method (Monte-Carlo simulation and Closed form)\n- Stochastic study of the convergence between discrete and continuous models\n- Numerical computation of the option’s put price using Finite Difference methods (explicit, implicit and Crank-Nicholson stencils) on Black-Scholes PDE’s formula",
+        "project_git": "https://github.com/lcsrodriguez/ENSIIE_S2_PROJET_MATHS",
+        "project_date": "Mar. - Jun. 2021",
+        "project_report": "https://github.com/lcsrodriguez/ENSIIE_S2_PROJET_MATHS/blob/main/rapport.pdf",
+        "project_techs": "Python",
+        "project_type": "A"
+    },
+    "3": {
+        "project_id": 3,
+        "project_title": "Design of a full self-driving vehicle & obstacle avoidance system",
+        "project_desc": "Created, designed & developed a small standalone robot, provided with an obstacle avoidance system using Arduino's technologies and several electronic components (C, Matlab, Python)\n- Commercial study of various solutions (LiDAR, Ultrasound & Infrared)\n- Use of ultrasound systems for avoidance protocols\n- Development of the embedded systems\n- Enhancement of a current LCD screen management C library to include the I2C bus norm\n- Performance analysis on real environment with various-sized obstacles",
+        "project_git": "-1",
+        "project_date": "Jan. 2016 - Jan. 2018",
+        "project_report": "-1",
+        "project_techs": "C, Matlab, Python",
+        "project_type": "A"
+    },
+    "4": {
+        "project_id": 4,
+        "project_title": "Numerical optimization of the maritime flows - Algorithmic analysis and cartographic application",
+        "project_desc": "Studied, implemented and tested several operational research algorithms dedicated to solve an adapted Shortest Path Problem, to optimize a vessel route, using random-generated and scraped data.",
+        "project_git": "https://github.com/lcsrodriguez/MP_TIPE",
+        "project_date": "Apr. 2019 - May 2020",
+        "project_report": "https://github.com/lcsrodriguez/MP_TIPE/blob/main/docs/slides/diapo.pdf",
+        "project_techs": "Python, SQL",
+        "project_type": "A"
+    },
+    "5": {
+        "project_id": 5,
+        "project_title": "Complete web app for AI student club",
+        "project_desc": "Website for the [DataScIIEnce](https://datasciience..iiens.net) student club including :\n- User management systems\n- Showcase website for commercial and academic purposes\n- Ressources management center (MOOCs, Kaggle, team articles, ...)",
+        "project_git": "-1",
+        "project_date": "2022",
+        "project_report": "-1",
+        "project_techs": "JS, PHP, MySQL",
+        "project_type": "P"
+    },
+    "6": {
+        "project_id": 6,
+        "project_title": "DNA/RNA strands construction & Phylogenetic tree simulation",
+        "project_desc": "- Used functional programming paradigm and OCaml language\n- Implemented generic functions for DNA strand study and genomic analysis\n- Implemented general structure of phylogenetic tree",
+        "project_git": "https://github.com/lcsrodriguez/ENSIIE_S2_PROJET_PROG_FONC",
+        "project_date": "May. 2021 - Jun. 2021",
+        "project_techs": "OCaml",
+        "project_report": "https://github.com/lcsrodriguez/ENSIIE_S2_PROJET_PROG_FONC/blob/main/rapport.pdf",
+        "project_type": "A"
+    },
+    "7": {
+        "project_id": 7,
+        "project_title": "Traffic Light Protocol (TLP) software implementation",
+        "project_desc": "Development of a Qt-based application in Python to format and edit multi-pages documents and add Traffic Light Protocol rules.",
+        "project_git": "-1",
+        "project_date": "Nov. 2021 - Jan. 2022",
+        "project_techs": "Python (PyQt)",
+        "project_report": "-1",
+        "project_type": "P"
+    },
+    "8": {
+        "project_id": 8,
+        "project_title": "ConocoPhillips Predictive Equipment Failures  ",
+        "project_desc": "Kaggle competition",
+        "project_git": "-1",
+        "project_date": "Forthcoming",
+        "project_techs": "Python (data science libraries)",
+        "project_report": "-1",
+        "project_type": "P"
+    },
+    "9": {
+        "project_id": 9,
+        "project_title": "C board game implementation",
+        "project_desc": "-",
+        "project_git": "https://github.com/lcsrodriguez/ENSIIE_S1_PROJET_IPI",
+        "project_date": "Dec. 2020 - Jan. 2021",
+        "project_techs": "C",
+        "project_report": "https://github.com/lcsrodriguez/ENSIIE_S1_PROJET_IPI/blob/main/docs/rapport.pdf",
+        "project_type": "A"
+    },
+    "10": {
+        "project_id": 10,
+        "project_title": "Cloned-IMDB app (PHP backend)",
+        "project_desc": "-",
+        "project_git": "https://github.com/lcsrodriguez/ENSIIE_S2_MINI_PROJET_WEB",
+        "project_date": "Mar. 2021 - Jun. 2021",
+        "project_techs": "PHP, JS (pure), Bootstrap, PgSQL",
+        "project_report": "-1",
+        "project_type": "A"
+    },
+    "11": {
+        "project_id": 11,
+        "project_title": "Cloned-IMDB app (Python/FastAPI backend)",
+        "project_desc": "-",
+        "project_git": "-1",
+        "project_date": "Sep. 2021 - Jan. 2022",
+        "project_techs": "Python (FastAPI, sklearn, nltk)",
+        "project_report": "-1",
+        "project_type": "A"
+    },
+    "12": {
+        "project_id": 12,
+        "project_title": "Domestic network speedtest tool",
+        "project_desc": "-",
+        "project_git": "https://github.com/lcsrodriguez/speedtest-meter",
+        "project_date": "Jun. 2021 - Aug. 2021",
+        "project_techs": "Python",
+        "project_report": "-1",
+        "project_type": "P"
+    },
+    "13": {
+        "project_id": 13,
+        "project_title": "ownCloud/NextCloud software for scanning systems",
+        "project_desc": "-",
+        "project_git": "-1",
+        "project_date": "Jun. 2021 - Aug. 2021",
+        "project_techs": "Python, JS, PHP (API OwnCloud/NextCloud)",
+        "project_report": "-1",
+        "project_type": "Pro"
+    },
+    "14": {
+        "project_id": 14,
+        "project_title": "Document scanning request server & end-user stations",
+        "project_desc": "-",
+        "project_git": "-1",
+        "project_date": "Jun. 2021 - Aug. 2021",
+        "project_techs": "Python, JS, PHP (API OwnCloud/NextCloud)",
+        "project_report": "-1",
+        "project_type": "Pro"
+    }
+}
