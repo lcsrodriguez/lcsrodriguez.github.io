@@ -4,5 +4,11 @@
         "title": "A simple and fast algorithm for K-medoids clustering",
         "topics": "K-medoids, clustering, machine learning, R",
         "authors": "Hae-Sang Park, Chi-Hyuck Jun"
+    },
+    "2": {
+        "url": "#",
+        "title": "A formal basis for the Heuristic Determination of Minimul Cost Paths",
+        "topics": "Shortest Path Problem, Operations research, A* algorithm, Heuristics",
+        "authors": "Peter E. Hart, Nils J. Nilsson, Bertram Raphael"
     }
 }
