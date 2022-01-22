@@ -10,5 +10,11 @@
         "title": "A formal basis for the Heuristic Determination of Minimul Cost Paths",
         "topics": "Shortest Path Problem, Operations research, A* algorithm, Heuristics",
         "authors": "Peter E. Hart, Nils J. Nilsson, Bertram Raphael"
+    },
+    "3": {
+        "url": "#",
+        "title": "How directed is a directed network ? (Royal Society)",
+        "topics": "Graph theory, trophic level, Network properties",
+        "authors": "R. S. MacKay, S. Johnson, B. Sansom"
     }
 }
