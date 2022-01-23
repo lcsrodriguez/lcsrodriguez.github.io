@@ -55,7 +55,7 @@
     },
     "7": {
         "project_title": "Traffic Light Protocol (TLP) software implementation",
-        "project_desc": "Development of a Qt-based application in Python to format and edit multi-pages documents and add Traffic Light Protocol rules.",
+        "project_desc": "Development of a Qt-based application in Python to format and edit multi-pages documents and add Traffic Light Protocol rules.\n\n [Definitions & Usage](https://www.cisa.gov/tlp)",
         "project_git": "-1",
         "project_date": "Nov. 2021 - Jan. 2022",
         "project_techs": "Python (PyQt)",
@@ -64,7 +64,7 @@
     },
     "8": {
         "project_title": "ConocoPhillips Predictive Equipment Failures  ",
-        "project_desc": "Kaggle competition",
+        "project_desc": "Personal project part of an official Kaggle competition from ConocoPhillips \n\n [Official competition page](https://www.kaggle.com/c/equipfails/overview)",
         "project_git": "-1",
         "project_date": "Forthcoming",
         "project_techs": "Python (data science libraries)",
@@ -73,7 +73,7 @@
     },
     "9": {
         "project_title": "C board game implementation",
-        "project_desc": "-",
+        "project_desc": "Implementation of a custom board game in C. Work subject available in the Git repo",
         "project_git": "https://github.com/lcsrodriguez/ENSIIE_S1_PROJET_IPI",
         "project_date": "Dec. 2020 - Jan. 2021",
         "project_techs": "C",
@@ -82,7 +82,7 @@
     },
     "10": {
         "project_title": "Cloned-IMDB app (PHP backend)",
-        "project_desc": "-",
+        "project_desc": "- Scraping & formatting of data from IMDB\n - Developped a dynamic search based of several RegExp combinations on a MySQL db",
         "project_git": "https://github.com/lcsrodriguez/ENSIIE_S2_MINI_PROJET_WEB",
         "project_date": "Mar. 2021 - Jun. 2021",
         "project_techs": "PHP, JS (pure), Bootstrap, PgSQL",
@@ -91,7 +91,7 @@
     },
     "11": {
         "project_title": "Cloned-IMDB app (Python/FastAPI backend)",
-        "project_desc": "-",
+        "project_desc": "- Scraping & formatting of data from IMDB (MySQL db of 5 Gb)\n - Implementation of a full sentiment analysis system based on NLP algorithms working on Twitter and Reddit textflows thanks to their respective APIs\n - Developped a dynamic search based of several RegExp combinations on a MySQL db",
         "project_git": "-1",
         "project_date": "Sep. 2021 - Jan. 2022",
         "project_techs": "Python (FastAPI, sklearn, nltk)",
@@ -100,7 +100,7 @@
     },
     "12": {
         "project_title": "Domestic network speedtest tool",
-        "project_desc": "-",
+        "project_desc": "- Implementation of a basic network speedtest tool dedicated to analyse upload/download stream speeds in order to verify the conformity of the current service in comparison with the ISP signed contract.\n - After each analysis, release accurate charts ready to be plot to the end-user\n - Include use of several testing servers (through the used py extension)",
         "project_git": "https://github.com/lcsrodriguez/speedtest-meter",
         "project_date": "Jun. 2021 - Aug. 2021",
         "project_techs": "Python",
@@ -109,7 +109,7 @@
     },
     "13": {
         "project_title": "ownCloud/NextCloud software for scanning systems",
-        "project_desc": "-",
+        "project_desc": "In the context of an internship : \n  - Design and Development of a NextCloud application dealing with document scanning request\n - Implementation of a full-featured dashboard to easily handle scanning request lifetime and status protocols\n - Technical prospection for the authentification part around the following protocols : 2FA, FIDO Key, TOTP, OTP \n - Handler with the authentification process using NextCloud OAuth API\n - Automation of tokens validity using cron",
         "project_git": "-1",
         "project_date": "Jun. 2021 - Aug. 2021",
         "project_techs": "Python, JS, PHP (API OwnCloud/NextCloud)",
@@ -118,7 +118,7 @@
     },
     "14": {
         "project_title": "Document scanning request server & end-user stations",
-        "project_desc": "-",
+        "project_desc": "In the context of an internship : \n  - Development of document scanning request server (Python: FastAPI, ownCloud api, ...)\n - Implementation of a custom authentification system, which makes a secure link for upload between a distant NextCloud session and the scanning server\n - Design following the API RESTful architecture",
         "project_git": "-1",
         "project_date": "Jun. 2021 - Aug. 2021",
         "project_techs": "Python, JS, PHP (API OwnCloud/NextCloud)",
@@ -127,9 +127,18 @@
     },
     "15": {
         "project_title": "Lottery statistics scraping, analysis, pattern recognition & covering systems reproduction",
-        "project_desc": "-",
+        "project_desc": "- Development of a web-scraping tool to gather statistics and historical data from various sources\n - Set up of a FastAPI-dashboard for results & graphics display\n - *(TO DO)* Statistical analysis (Pattern recognition, sequence analyzer, ...)",
         "project_git": "-1",
         "project_date": "Aug. 2021 - Present",
+        "project_techs": "Python",
+        "project_report": "-1",
+        "project_type": "P"
+    },
+    "16": {
+        "project_title": "Personal portfolio",
+        "project_desc": "Development of this current website to illustrate my projects (past, present & future), my academic and technical interests and my skills",
+        "project_git": "-1",
+        "project_date": "Dec. 2021 - Present",
         "project_techs": "Python",
         "project_report": "-1",
         "project_type": "P"
