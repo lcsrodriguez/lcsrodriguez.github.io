@@ -142,5 +142,14 @@
         "project_techs": "Python",
         "project_report": "-1",
         "project_type": "P"
+    },
+    "17": {
+        "project_title": "Data-extraction/formatting software for real-estate advertising",
+        "project_desc": "- Design, development, test and deployment of a data extraction/formatting software for a French real-estate agency\n - Application dedicated to convert raw PDF data from huge-sized files to XLSX/JSON/CSV format using accurate computer vision solutions (OCR), implemented in Python, for advertising purposes",
+        "project_git": "-1",
+        "project_date": "Oct. 2020 - Nov. 2020",
+        "project_techs": "Python (opencv, xlsx & pdf handler)",
+        "project_report": "-1",
+        "project_type": "Pro"
     }
 }
