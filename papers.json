@@ -16,5 +16,11 @@
         "title": "How directed is a directed network ? (Royal Society)",
         "topics": "Graph theory, trophic level, Network properties",
         "authors": "R. S. MacKay, S. Johnson, B. Sansom"
+    },
+    "4": {
+        "url": "#",
+        "title": "Entangled Financial Systems",
+        "topics": "Risk hedging, OTC contracts, Systemic risk",
+        "authors": "Adam Zawadowsk (Boston University)"
     }
 }
