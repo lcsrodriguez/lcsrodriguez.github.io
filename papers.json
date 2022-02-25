@@ -22,5 +22,11 @@
         "title": "Entangled Financial Systems",
         "topics": "Risk hedging, OTC contracts, Systemic risk",
         "authors": "Adam Zawadowsk (Boston University)"
+    },
+    "5": {
+        "url": "#",
+        "title": "Derivatives holdings and systemic risk in the U.S. banking sector",
+        "topics": "Systemic risk, OTC market, Derivatives, Shapley value",
+        "authors": "Sergio Mayordomo, Maria Rodriguez-Moreno, Juan Ignacio Peña"
     }
 }
