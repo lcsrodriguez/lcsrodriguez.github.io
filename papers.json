@@ -28,5 +28,11 @@
         "title": "Derivatives holdings and systemic risk in the U.S. banking sector",
         "topics": "Systemic risk, OTC market, Derivatives, Shapley value",
         "authors": "Sergio Mayordomo, Maria Rodriguez-Moreno, Juan Ignacio Peña"
+    },
+    "6": {
+        "url": "#",
+        "title": "Capital-Market Effects of Securities Regulation: Prior Conditions, Implementation, and Enforcement",
+        "topics": "Costs and benefits of securities regulation, Causal effects of regulation on E.U. firms",
+        "authors": "Hans B. Christensen, Luzi Hail, Christian Leuz"
     }
 }
