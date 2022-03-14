@@ -37,7 +37,7 @@
     },
     "5": {
         "project_title": "Complete web app for AI student club",
-        "project_desc": "Website for the [DataScIIEnce](https://datasciience..iiens.net) student club including :\n- User management systems\n- Showcase website for commercial and academic purposes\n- Ressources management center (MOOCs, Kaggle, team articles, ...)",
+        "project_desc": "Website for the [DataScIIEnce](https://datasciience.iiens.net) student club including :\n- User management systems\n- Showcase website for commercial and academic purposes\n- Ressources management center (MOOCs, Kaggle, team articles, ...)",
         "project_git": "-1",
         "project_date": "2022",
         "project_report": "-1",
@@ -64,7 +64,7 @@
     },
     "8": {
         "project_title": "ConocoPhillips Predictive Equipment Failures  ",
-        "project_desc": "Personal project part of an official Kaggle competition from ConocoPhillips \n\n [Official competition page](https://www.kaggle.com/c/equipfails/overview)",
+        "project_desc": "Personal project part of an official Kaggle competition from ConocoPhillips (large oil-equipment company) \n\n [Official competition page](https://www.kaggle.com/c/equipfails/overview)",
         "project_git": "-1",
         "project_date": "Forthcoming",
         "project_techs": "Python (data science libraries)",
