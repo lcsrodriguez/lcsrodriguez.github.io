@@ -139,7 +139,7 @@
         "project_desc": "Development of this current website to illustrate my projects (past, present & future), my academic and technical interests and my skills",
         "project_git": "-1",
         "project_date": "Dec. 2021 - Present",
-        "project_techs": "Python",
+        "project_techs": "JS (React), Web dev, gh pages",
         "project_report": "-1",
         "project_type": "P"
     },
@@ -148,8 +148,17 @@
         "project_desc": "- Design, development, test and deployment of a data extraction/formatting software for a French real-estate agency\n - Application dedicated to convert raw PDF data from huge-sized files to XLSX/JSON/CSV format using accurate computer vision solutions (OCR), implemented in Python, for advertising purposes",
         "project_git": "-1",
         "project_date": "Oct. 2020 - Nov. 2020",
-        "project_techs": "Python (opencv, xlsx & pdf handler)",
+        "project_techs": "Python (opencv, xlsx & pdf handler), setuptools",
         "project_report": "-1",
         "project_type": "Pro"
+    },
+    "18": {
+        "project_title": "Complete web app development for student club",
+        "project_desc": "",
+        "project_git": "-1",
+        "project_date": "Feb. 2021 - Jun. 2021",
+        "project_techs": "PHP, web dev",
+        "project_report": "-1",
+        "project_type": "A"
     }
 }
