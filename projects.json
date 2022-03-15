@@ -154,7 +154,7 @@
     },
     "18": {
         "project_title": "Complete web app development for student club",
-        "project_desc": "",
+        "project_desc": "- Full & autonomous authentification system design and implementation\n - Development of a full-featured calendar system\n - Implementation of a user system with settings and dashboard features\n - Deployment on production server",
         "project_git": "-1",
         "project_date": "Feb. 2021 - Jun. 2021",
         "project_techs": "PHP, web dev",
