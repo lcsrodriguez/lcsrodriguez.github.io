@@ -19,7 +19,7 @@
     },
     "3": {
         "project_title": "Design of a full self-driving vehicle & obstacle avoidance system",
-        "project_desc": "Created, designed & developed a small standalone robot, provided with an obstacle avoidance system using Arduino's technologies and several electronic components (C, Matlab, Python)\n- Commercial study of various solutions (LiDAR, Ultrasound & Infrared)\n- Use of ultrasound systems for avoidance protocols\n- Development of the embedded systems\n- Enhancement of a current LCD screen management C library to include the I2C bus norm\n- Performance analysis on real environment with various-sized obstacles",
+        "project_desc": "Created, designed & developed a small standalone robot, provided with an obstacle avoidance system using Arduino's technologies and several electronic components (C, Matlab, Python)\n- Commercial study of various solutions (LiDAR, Ultrasound & Infrared)\n- Use of ultrasound systems for avoidance protocols\n- Development of the embedded systems\n- Enhancement of a current LCD screen management C library to include the I2C bus norm\n- Performance analysis on real environment with various-sized obstacles\n- Full development, deployment and English/Spanish translation of the technical report as a static web app",
         "project_git": "-1",
         "project_date": "Jan. 2016 - Jan. 2018",
         "project_report": "-1",
