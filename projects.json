@@ -160,5 +160,14 @@
         "project_techs": "PHP, web dev",
         "project_report": "-1",
         "project_type": "A"
+    },
+    "19": {
+        "project_title": "Support Vector Machine implementation on cancer-detection data",
+        "project_desc": "",
+        "project_git": "-1",
+        "project_date": "Apr. 2022",
+        "project_techs": "Python",
+        "project_report": "-1",
+        "project_type": "A"
     }
 }
