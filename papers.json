@@ -28,5 +28,10 @@
         "title": "Capital-Market Effects of Securities Regulation: Prior Conditions, Implementation, and Enforcement",
         "topics": "Costs and benefits of securities regulation, Causal effects of regulation on E.U. firms",
         "authors": "Hans B. Christensen, Luzi Hail, Christian Leuz"
+    },
+    "7": {
+        "title": "MapReduce: Simplified Data Processing on Large Clusters",
+        "topics": "-1",
+        "authors": "Jeffrey Dean, Sanjay Ghemawat (Google Labs)"
     }
 }
