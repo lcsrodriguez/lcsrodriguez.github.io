@@ -31,7 +31,7 @@
     },
     "7": {
         "title": "MapReduce: Simplified Data Processing on Large Clusters",
-        "topics": "-1",
+        "topics": "First presentation of MR framework, used in Hadoop",
         "authors": "Jeffrey Dean, Sanjay Ghemawat (Google Labs)"
     }
 }
