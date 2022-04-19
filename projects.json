@@ -162,12 +162,30 @@
         "project_type": "A"
     },
     "19": {
-        "project_title": "Support Vector Machine implementation on cancer-detection data",
-        "project_desc": "",
-        "project_git": "-1",
+        "project_title": "Support Vector Machine implementation on breast cancer detection data",
+        "project_desc": "Academic assignment about data analysis and binary classification throughout SVM methods on breact cancer data",
+        "project_git": "https://github.com/lcsrodriguez/intro-ml-assignment/",
         "project_date": "Apr. 2022",
         "project_techs": "Python",
-        "project_report": "-1",
+        "project_report": "https://github.com/lcsrodriguez/intro-ml-assignment/blob/main/assignment.ipynb",
         "project_type": "A"
+    },
+    "20": {
+        "project_title": "Fibonacci presentation",
+        "project_desc": "Academic presentation _(in French)_ on the numeric computation of the Fibonacci sequence\n - Naive and iterative approaches (Recursion & Explicit methods)\n - A last track : matrix writing\n - Application of F_n &bull; Euclid's algorithm",
+        "project_git": "https://github.com/lcsrodriguez/fibonacci",
+        "project_date": "Mar. 2019",
+        "project_techs": "Python",
+        "project_report": "https://github.com/lcsrodriguez/fibonacci/blob/main/slides/slides.pdf",
+        "project_type": "A"
+    },
+    "21": {
+        "project_title": "Map Reduce paradigm implementation in OCaml",
+        "project_desc": "Functional programing implementation of **MapReduce** paradigm using OCaml",
+        "project_git": "https://github.com/lcsrodriguez/MapReduce-OCaml",
+        "project_date": "Apr. 2022",
+        "project_techs": "OCaml",
+        "project_report": "-1",
+        "project_type": "P"
     }
 }
