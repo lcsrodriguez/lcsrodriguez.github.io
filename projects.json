@@ -194,7 +194,7 @@
         "project_git": "https://github.com/PathBoard/",
         "project_date": "Apr. 2022 - Present",
         "project_techs": "Swift, Python (FastAPI)",
-        "project_report": "pathboard.github.io",
+        "project_report": "https://pathboard.github.io",
         "project_type": "P"
     }
 }
