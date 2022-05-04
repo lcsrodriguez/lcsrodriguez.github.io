@@ -187,5 +187,14 @@
         "project_techs": "OCaml",
         "project_report": "-1",
         "project_type": "P"
+    },
+    "22": {
+        "project_title": "Geolocation and Sport performance analyzer",
+        "project_desc": "Open-source application dedicated to analyze real-time or historical data (long, lat, alt, speed, type of motion, raw gyroscope/magnetometer/accelerometer data, pedometer, ...)\n In the future, ambition to embed these data processing protocols into a Grafana-like dashboard for optimized UX",
+        "project_git": "https://github.com/PathBoard/",
+        "project_date": "Apr. 2022 - Present",
+        "project_techs": "Swift, Python (FastAPI)",
+        "project_report": "pathboard.github.io",
+        "project_type": "P"
     }
 }
