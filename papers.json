@@ -33,5 +33,10 @@
         "title": "MapReduce: Simplified Data Processing on Large Clusters",
         "topics": "First presentation of MR framework, used in Hadoop",
         "authors": "Jeffrey Dean, Sanjay Ghemawat (Google Labs)"
+    },
+    "8": {
+        "title": "Price of long-run temperature shifts in capital markets",
+        "topics": "Global warming, long-run temperature fluctuations, cost of carbon emissions",
+        "authors": "Ravi Bansal, Dana Kiku, Marcelo Ochoa"
     }
 }
