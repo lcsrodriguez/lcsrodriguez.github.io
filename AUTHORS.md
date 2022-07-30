@@ -1,1 +1,0 @@
-Lucas RODRIGUEZ ([lcsrodriguez](https://github.com/lcsrodriguez))
