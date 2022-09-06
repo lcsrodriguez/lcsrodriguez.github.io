@@ -242,9 +242,18 @@
         "project_report": "-1",
         "project_type": "A"
     },
+    "29": {
+        "project_title": "Optimal Asset allocation methods - Economics of Financial Markets",
+        "project_desc": "Given a set of 100 equities and fund indexes:\n - Preliminary data analysis and pre-processing\n - Global Mean-Variance\n - Bayesian approach\n - Black-Litterman\n - ... \n - Benchmark, Performance analysis & Conclusion",
+        "project_git": "-1",
+        "project_date": "Jun. 2022 - Jul. 2022",
+        "project_techs": "Python",
+        "project_report": "-1",
+        "project_type": "A"
+    },
     "28": {
         "project_title": "Complete web app for AI student club (GH version)",
-        "project_desc": "Refactoring of the [current](https://datasciience.iiens.net/) webapp with a new, easier-to-use web application hosted on GitHub pages environment ([link](datasciience-ensiie.github.io))",
+        "project_desc": "Refactoring of the [current](https://datasciience.iiens.net/) webapp with a new, easier-to-use web application hosted on GitHub pages environment ([link](https://datasciience-ensiie.github.io))",
         "project_git": "https://github.com/DataScIIEnce-ENSIIE/datasciience-ensiie.github.io",
         "project_date": "Aug. 2022",
         "project_techs": "JavaScript, Markdown, MkDocs for Material",
