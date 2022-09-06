@@ -232,5 +232,14 @@
         "project_techs": "Python, WebSockets, Protobuf",
         "project_report": "-1",
         "project_type": "P"
+    },
+    "27": {
+        "project_title": "Statistical Methods for Asset Management (MATLAB, Python, R)",
+        "project_desc": "",
+        "project_git": "-1",
+        "project_date": "May. 2022 - Jul. 2022",
+        "project_techs": "MATLAB, Python, R",
+        "project_report": "-1",
+        "project_type": "A"
     }
 }
