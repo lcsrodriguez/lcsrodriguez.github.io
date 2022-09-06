@@ -244,7 +244,7 @@
     },
     "28": {
         "project_title": "Complete web app for AI student club (GH version)",
-        "project_desc": "Refactoring of the [current](https://datasciience.iiens.net/) webapp with a new, easier-to-use web application hosted on GitHub pages environment.",
+        "project_desc": "Refactoring of the [current](https://datasciience.iiens.net/) webapp with a new, easier-to-use web application hosted on GitHub pages environment ([link](datasciience-ensiie.github.io))",
         "project_git": "https://github.com/DataScIIEnce-ENSIIE/datasciience-ensiie.github.io",
         "project_date": "Aug. 2022",
         "project_techs": "JavaScript, Markdown, MkDocs for Material",
