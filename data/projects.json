@@ -196,5 +196,14 @@
         "project_techs": "Swift, Python (FastAPI)",
         "project_report": "https://pathboard.github.io",
         "project_type": "P"
+    },
+    "23": {
+        "project_title": ".dat/.hea complete convert/export tool for ECG data analysis",
+        "project_desc": "Open-source Python tool dedicated to convert and export records and underlying signals from ECG data for further data analysis processing",
+        "project_git": "https://github.com/lcsrodriguez/headat-signals",
+        "project_date": "Jul. 2022 - Aug. 2022",
+        "project_techs": "Python",
+        "project_report": "https://github.com/lcsrodriguez/headat-signals/README.md",
+        "project_type": "P"
     }
 }
