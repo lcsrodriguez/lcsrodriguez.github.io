@@ -41,7 +41,7 @@
         "project_git": "-1",
         "project_date": "2022",
         "project_report": "-1",
-        "project_techs": "JS, PHP, MySQL",
+        "project_techs": "JS, PHP, MySQL, OAuth (proprietary API)",
         "project_type": "P"
     },
     "6": {
@@ -157,7 +157,7 @@
         "project_desc": "- Full & autonomous authentification system design and implementation\n - Development of a full-featured calendar system\n - Implementation of a user system with settings and dashboard features\n - Deployment on production server",
         "project_git": "-1",
         "project_date": "Feb. 2021 - Jun. 2021",
-        "project_techs": "PHP, web dev",
+        "project_techs": "PHP, JQuery, Bootstrap",
         "project_report": "-1",
         "project_type": "A"
     },
@@ -241,5 +241,14 @@
         "project_techs": "MATLAB, Python, R",
         "project_report": "-1",
         "project_type": "A"
+    },
+    "28": {
+        "project_title": "Complete web app for AI student club (GH version)",
+        "project_desc": "Refactoring of the [current](https://datasciience.iiens.net/) webapp with a new, easier-to-use web application hosted on GitHub pages environment.",
+        "project_git": "https://github.com/DataScIIEnce-ENSIIE/datasciience-ensiie.github.io",
+        "project_date": "Aug. 2022",
+        "project_techs": "JavaScript, Markdown, MkDocs for Material",
+        "project_report": "-1",
+        "project_type": "P"
     }
 }
