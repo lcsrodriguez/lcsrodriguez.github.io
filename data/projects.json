@@ -214,5 +214,14 @@
         "project_techs": "TeX (LaTeX 2ε)",
         "project_report": "-1",
         "project_type": "P"
+    },
+    "25": {
+        "project_title": "K-Medoids clustering (in R)",
+        "project_desc": "K-Means variation for object-distance array\n- Benchmark with **Adjusted Rand Index** computed with `adj.rand.index` function from package `fossil`\n - PCA with `factoextra`\n - Comparison with other algorithms\n - Complete example on `iris` dataset",
+        "project_git": "https://github.com/lcsrodriguez/K-Medoids-clustering",
+        "project_date": "Nov. 2021 - Dec. 2021",
+        "project_techs": "R, Python",
+        "project_report": "-1",
+        "project_type": "A"
     }
 }
