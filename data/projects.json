@@ -223,5 +223,14 @@
         "project_techs": "R, Python",
         "project_report": "-1",
         "project_type": "A"
+    },
+    "26": {
+        "project_title": "Yahoo Finance - Real-time data collector",
+        "project_desc": "-",
+        "project_git": "https://github.com/lcsrodriguez/yahoo-real-time-data-python",
+        "project_date": "Sep. 2022 - ...",
+        "project_techs": "Python, WebSockets, Protobuf",
+        "project_report": "-1",
+        "project_type": "P"
     }
 }
