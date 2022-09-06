@@ -205,5 +205,14 @@
         "project_techs": "Python",
         "project_report": "https://github.com/lcsrodriguez/headat-signals/README.md",
         "project_type": "P"
+    },
+    "24": {
+        "project_title": "SuperTODO: LaTeX package for better TODO markups in report/thesis writing",
+        "project_desc": "Open-source TeX package to better deal with TODO tasks beacons within a thesis/long report writing in LaTeX.\n Check the [official Git repo](https://github.com/lcsrodriguez/SuperTODO) for more information.",
+        "project_git": "https://github.com/lcsrodriguez/SuperTODO",
+        "project_date": "Aug. 2022 - Sep. 2022",
+        "project_techs": "TeX (LaTeX 2ε)",
+        "project_report": "-1",
+        "project_type": "P"
     }
 }
