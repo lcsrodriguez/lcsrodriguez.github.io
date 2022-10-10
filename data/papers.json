@@ -43,5 +43,10 @@
         "title": "High-Frequency Trading Acceleration using FPGAs",
         "topics": "FPGA, High-Frequency Trading, Low Latency, FAST, FIX, Ethernet, UDP",
         "authors": "Christian Leber, Benjamin Geib, Heiner Litz"
+    },
+    "10": {
+        "title": "Learning data driven discretizations for Partial Differential Equations (PDE)",
+        "topics": "PDE, Grid modeling, Burger's equation",
+        "authors": "Yohai Bar-Sinai, Stephan Hoyer, Jason Hickey, Michael P. Brenner"
     }
 }
