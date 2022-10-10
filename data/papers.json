@@ -38,5 +38,10 @@
         "title": "Price of long-run temperature shifts in capital markets",
         "topics": "Global warming, long-run temperature fluctuations, cost of carbon emissions",
         "authors": "Ravi Bansal, Dana Kiku, Marcelo Ochoa"
+    },
+    "9": {
+        "title": "High-Frequency Trading Acceleration using FPGAs",
+        "topics": "FPGA, High-Frequency Trading, Low Latency, FAST, FIX, Ethernet, UDP",
+        "authors": "Christian Leber, Benjamin Geib, Heiner Litz"
     }
 }
