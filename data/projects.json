@@ -259,5 +259,14 @@
         "project_techs": "JavaScript, Markdown, MkDocs for Material",
         "project_report": "-1",
         "project_type": "P"
+    },
+    "29": {
+        "project_title": "Deep Learning practicals",
+        "project_desc": "- Studying empirically the impact of several NN architecture hyperparameters (# of layers, # of neurons/layer, activation functions, regularization (L1, L2, ElasticNet), learning rate evolution, impact of normalization + features noising)",
+        "project_git": "-1",
+        "project_date": "Oct. 2022 - ...",
+        "project_techs": "Python",
+        "project_report": "-1",
+        "project_type": "A"
     }
 }
