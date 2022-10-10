@@ -242,7 +242,7 @@
         "project_report": "-1",
         "project_type": "A"
     },
-    "29": {
+    "28": {
         "project_title": "Optimal Asset allocation methods - Economics of Financial Markets",
         "project_desc": "Given a set of 100 equities and fund indexes:\n - Preliminary data analysis and pre-processing\n - Global Mean-Variance\n - Bayesian approach\n - Black-Litterman\n - ... \n - Benchmark, Performance analysis & Conclusion",
         "project_git": "-1",
@@ -251,7 +251,7 @@
         "project_report": "-1",
         "project_type": "A"
     },
-    "28": {
+    "29": {
         "project_title": "Complete web app for AI student club (GH version)",
         "project_desc": "Refactoring of the [current](https://datasciience.iiens.net/) webapp with a new, easier-to-use web application hosted on GitHub pages environment ([link](https://datasciience-ensiie.github.io))",
         "project_git": "https://github.com/DataScIIEnce-ENSIIE/datasciience-ensiie.github.io",
@@ -260,7 +260,7 @@
         "project_report": "-1",
         "project_type": "P"
     },
-    "29": {
+    "30": {
         "project_title": "Deep Learning practicals",
         "project_desc": "- Studying empirically the impact of several NN architecture hyperparameters (# of layers, # of neurons/layer, activation functions, regularization (L1, L2, ElasticNet), learning rate evolution, impact of normalization + features noising)",
         "project_git": "-1",
