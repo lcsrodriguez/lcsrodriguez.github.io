@@ -304,5 +304,32 @@
         "project_techs": "Python",
         "project_report": "-1",
         "project_type": "A"
+    },
+    "35": {
+        "project_title": "Functional Data Analysis & Transfer learning applications",
+        "project_desc": "",
+        "project_git": "https://github.com/lcsrodriguez/ml_project",
+        "project_date": "Dec. 2022 - Jan. 2023",
+        "project_techs": "Python",
+        "project_report": "-1",
+        "project_type": "A"
+    },
+    "36": {
+        "project_title": "EO/AO pricer using FDM on BS PDE (VBA GUI)",
+        "project_desc": "- Computation of the greeks (delta, gamma, theta, rho, vega)\n- Implementation of the pricers using FDM (Crank-Nicholson)\n- Computiation and plotting of the optimal exercise frontier",
+        "project_git": "https://github.com/lcsrodriguez/cpp_bs_2",
+        "project_date": "Oct. 2022 - Jan. 2023",
+        "project_techs": "C++, VBA",
+        "project_report": "-1",
+        "project_type": "A"
+    },
+    "37": {
+        "project_title": "Intraday volatility estimation from high frequency data",
+        "project_desc": "- Estimate and plot the values of the estimated realized volatility when using observation frequencies ranging from 30 seconds to 15 minutes.\n- Compare these estimations with the long range estimation of the volatility (based on 1 month of daily data)\n- Provide some estimation of the micro-structure noise size (by using the autocorrelation between the returns at different scales)\n- Plot the evolution of the estimated daily volatility of the IVE over the last year.",
+        "project_git": "https://github.com/lcsrodriguez/HFT-IntradayVol-Estimation",
+        "project_date": "Oct. 2022 - Jan. 2023",
+        "project_techs": "Python (Forthcoming Q/KDB+ extension)",
+        "project_report": "-1",
+        "project_type": "A"
     }
 }
