@@ -286,5 +286,23 @@
         "project_techs": "Python (pandas, scikit-learn, ...)",
         "project_report": "-1",
         "project_type": "A"
+    },
+    "33": {
+        "project_title": "Blood Cell classifier using Computer Vision",
+        "project_desc": "Use of ResNet 50 NN model to classify and detect blood cell types among a large dataset",
+        "project_git": "https://github.com/lcsrodriguez/blood-cells-classifier",
+        "project_date": "Oct. 2022 - Jan. 2023",
+        "project_techs": "Python (tensorflow, keras, scikit-learn, ...)",
+        "project_report": "-1",
+        "project_type": "A"
+    },
+    "34": {
+        "project_title": "SABR volatility model for swaptions (calibration w/ market data)",
+        "project_desc": "- Use of financial market data in order to calibrate the model\n- Study of the impact of each parameter of SABR model\n- Construction of implied volatility smiles",
+        "project_git": "https://github.com/lcsrodriguez/SABR_Volatility-Rates",
+        "project_date": "Oct. 2022 - Nov. 2022",
+        "project_techs": "Python",
+        "project_report": "-1",
+        "project_type": "A"
     }
 }
