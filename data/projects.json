@@ -268,5 +268,23 @@
         "project_techs": "Python",
         "project_report": "-1",
         "project_type": "A"
+    },
+    "31": {
+        "project_title": "Financial mathematics - Portfolio allocation analysis on CAC40 financial data (SQL querying)",
+        "project_desc": "In-depth analysis of a portfolio of diverse assets (stocks, bonds, futures/forwards, options, funds, ...)",
+        "project_git": "https://github.com/lcsrodriguez/mafi-portfolio-mysql",
+        "project_date": "Sep. 2022 - Oct. 2022",
+        "project_techs": "SQL, Excel",
+        "project_report": "-1",
+        "project_type": "A"
+    },
+    "32": {
+        "project_title": "Ice Quantity Predictive Classifier (Infrasound signals)",
+        "project_desc": "- Binary classification on the level of ice quantity in Greenland\n- Benchmarking several binary classifiers performances",
+        "project_git": "https://github.com/lcsrodriguez/ML-IceQuantity-Infrasound",
+        "project_date": "Oct. 2022 - Nov. 2022",
+        "project_techs": "Python (pandas, scikit-learn, ...)",
+        "project_report": "-1",
+        "project_type": "A"
     }
 }
