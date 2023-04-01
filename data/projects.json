@@ -353,7 +353,7 @@
     "40": {
         "project_title": "EUR/Oil option using CGMY/VG processes",
         "project_desc": "",
-        "project_git": "",
+        "project_git": "-1",
         "project_date": "Feb. 2023 - May. 2023",
         "project_techs": "-",
         "project_report": "",
@@ -362,10 +362,10 @@
     "41": {
         "project_title": "ML/DL Crypto trading strategies & Backtest",
         "project_desc": "",
-        "project_git": "",
+        "project_git": "-1",
         "project_date": "Mar. 2023 - Apr. 2023",
         "project_techs": "Python",
-        "project_report": "",
+        "project_report": "-1",
         "project_type": "P"
     }
 }
