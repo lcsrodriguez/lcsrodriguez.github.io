@@ -331,5 +331,23 @@
         "project_techs": "Python (Forthcoming Q/KDB+ extension)",
         "project_report": "-1",
         "project_type": "A"
+    },
+    "38": {
+        "project_title": "High Frequency Level 2 data analysis & LOB modelling",
+        "project_desc": "- Statistical analysis of spread distribution, ticksize, ...\n- Simulation of several point processes (Homogeneous/Non-Homogeneous Poisson, Hawkes, Cox, ...)\n- Goodness-of-fit with empirical durations\n- MLE for Hawkes processes calibration",
+        "project_git": "-1",
+        "project_date": "Mar. 2023 - Apr. 2023",
+        "project_techs": "Python",
+        "project_report": "-1",
+        "project_type": "A"
+    },
+    "39": {
+        "project_title": "Lifted Heston/Lifted Bergomi models implementation",
+        "project_desc": "- Estimation of Hurst exponent from Lifted Heston model with fractional Brownian motion (Cholesky method)\n-EUR Call option pricer using Fourier methods for Lifted Heston model\n- EUR Call option pricer using Monte-Carlo for Lifted Bergomi model\n- Computation of implied volatility smiles for various equi-distant log-strikes intervals",
+        "project_git": "https://github.com/lcsrodriguez/Lifted-Heston-RoughVol",
+        "project_date": "Feb. 2023 - Mar. 2023",
+        "project_techs": "Python",
+        "project_report": "https://raw.githubusercontent.com/lcsrodriguez/Lifted-Heston-RoughVol/main/docs/report.pdf",
+        "project_type": "A"
     }
 }
