@@ -343,7 +343,7 @@
     },
     "39": {
         "project_title": "Lifted Heston/Lifted Bergomi models implementation",
-        "project_desc": "- Estimation of Hurst exponent from Lifted Heston model with fractional Brownian motion (Cholesky method)\n-EUR Call option pricer using Fourier methods for Lifted Heston model\n- EUR Call option pricer using Monte-Carlo for Lifted Bergomi model\n- Computation of implied volatility smiles for various equi-distant log-strikes intervals",
+        "project_desc": "- Estimation of Hurst exponent from Lifted Heston model with fractional Brownian motion (Cholesky method)\n- Theoretical proof of Carr-Madan formula of call option price \n- EUR Call option pricer using Fourier methods for Lifted Heston model\n- EUR Call option pricer using Monte-Carlo for Lifted Bergomi model\n- Computation of implied volatility smiles for various equi-distant log-strikes intervals",
         "project_git": "https://github.com/lcsrodriguez/Lifted-Heston-RoughVol",
         "project_date": "Feb. 2023 - Mar. 2023",
         "project_techs": "Python",
