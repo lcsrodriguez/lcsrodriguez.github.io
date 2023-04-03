@@ -53,5 +53,10 @@
         "title": "Option valuation using the fast Fourier transform",
         "topics": "",
         "authors": "Peter Carr, Dilip B. Madan"
+    },
+    "12": {
+        "title": "Optimal high frequency trading with limit and market orders",
+        "topics": "Market making, limit order book, inventory risk, point process, stochastic control",
+        "authors": "Fabien GUILBAUD, Huyên PHAM"
     }
 }
