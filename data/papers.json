@@ -58,5 +58,10 @@
         "title": "Optimal high frequency trading with limit and market orders",
         "topics": "Market making, limit order book, inventory risk, point process, stochastic control",
         "authors": "Fabien GUILBAUD, Huyên PHAM"
+    },
+    "13": {
+        "title": "Surface de volatilité",
+        "topics": "Implied volatility, Local volatility, Stochastic volatility",
+        "authors": "Peter TANKOV"
     }
 }
