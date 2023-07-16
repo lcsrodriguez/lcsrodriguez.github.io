@@ -367,5 +367,32 @@
         "project_techs": "Python",
         "project_report": "-1",
         "project_type": "P"
+    },
+    "42": {
+        "project_title": "AIS streaming data handler",
+        "project_desc": "",
+        "project_git": "https://github.com/lcsrodriguez/AIS-ws-feedhandler",
+        "project_date": "Jul. 2023",
+        "project_techs": "Python",
+        "project_report": "-1",
+        "project_type": "P"
+    },
+    "43": {
+        "project_title": "Household Energy Price Index data scraping",
+        "project_desc": "- Automatic data scraping of a MS PowerBI dashboard",
+        "project_git": "https://github.com/lcsrodriguez/energy-price-index",
+        "project_date": "May. - Jun. 2023",
+        "project_techs": "Python (requests, selenium, bs4)",
+        "project_report": "-1",
+        "project_type": "Pro"
+    },
+    "44": {
+        "project_title": "Economic Calendar tool",
+        "project_desc": "- Scraping, processing and storing worldwide economic calendar",
+        "project_git": "https://github.com/lcsrodriguez/ecocal",
+        "project_date": "Jun. - Jul. 2023",
+        "project_techs": "Python (requests, selenium, bs4)",
+        "project_report": "-1",
+        "project_type": "P"
     }
 }
