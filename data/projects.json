@@ -403,5 +403,14 @@
         "project_techs": "Python (requests, selenium, bs4)",
         "project_report": "-1",
         "project_type": "P"
+    },
+    "46": {
+        "project_title": "FOREX Live & historical prices gathering",
+        "project_desc": "",
+        "project_git": "https://github.com/lcsrodriguez/fx",
+        "project_date": "Jul - Aug. 2023",
+        "project_techs": "Python (requests, selenium, bs4)",
+        "project_report": "-1",
+        "project_type": "P"
     }
 }
