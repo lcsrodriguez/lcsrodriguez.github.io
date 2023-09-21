@@ -405,11 +405,20 @@
         "project_type": "P"
     },
     "46": {
-        "project_title": "FOREX Live & historical prices gathering",
+        "project_title": "FOREX historical prices gathering",
         "project_desc": "",
         "project_git": "https://github.com/lcsrodriguez/fx",
         "project_date": "Jul - Aug. 2023",
         "project_techs": "Python (requests, selenium, bs4)",
+        "project_report": "-1",
+        "project_type": "P"
+    },
+    "47": {
+        "project_title": "qKucoin",
+        "project_desc": "Simple KDB+/Q wrapper of the HTTP and WS API",
+        "project_git": "https://github.com/lcsrodriguez/qkucoin",
+        "project_date": "Aug. 2023",
+        "project_techs": "KDB+/Q",
         "project_report": "-1",
         "project_type": "P"
     }
