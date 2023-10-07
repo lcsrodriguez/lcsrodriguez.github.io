@@ -430,5 +430,14 @@
         "project_techs": "Python (Fast API), HTML",
         "project_report": "-1",
         "project_type": "P"
+    },
+    "49": {
+        "project_title": "Interactive Brokers - REST API wrapper",
+        "project_desc": "",
+        "project_git": "https://github.com/lcsrodriguez/ibkr",
+        "project_date": "Aug. - Sep. 2023",
+        "project_techs": "Python",
+        "project_report": "-1",
+        "project_type": "P"
     }
 }
