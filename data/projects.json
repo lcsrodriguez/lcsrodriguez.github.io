@@ -421,5 +421,14 @@
         "project_techs": "KDB+/Q",
         "project_report": "-1",
         "project_type": "P"
+    },
+    "48": {
+        "project_title": "Yahoo Finance - Interactive ticker lookup tool",
+        "project_desc": "Interactive ticker lookup tool",
+        "project_git": "https://github.com/lcsrodriguez/yf-lookup",
+        "project_date": "Sep. 2023",
+        "project_techs": "Python (Fast API), HTML",
+        "project_report": "-1",
+        "project_type": "P"
     }
 }
