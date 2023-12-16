@@ -439,5 +439,14 @@
         "project_techs": "Python",
         "project_report": "-1",
         "project_type": "P"
+    },
+    "50": {
+        "project_title": "Earnings tool (Python package)",
+        "project_desc": "`earnings` is a lightweight and featureful Python package tailored to retrieve insightful earnings details, allowing users to collect previous and future earnings calendars, filter by US-equity ticker, define a custom portfolio and easily integrate reliable financial data into your applications.",
+        "project_git": "https://github.com/lcsrodriguez/earnings",
+        "project_date": "Dec. 2023",
+        "project_techs": "Python",
+        "project_report": "https://pypi.org/project/earnings/",
+        "project_type": "P"
     }
 }
