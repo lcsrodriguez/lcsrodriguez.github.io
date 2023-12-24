@@ -6,7 +6,8 @@
         "project_date": "Dec. 2021 - Jan. 2022",
         "project_report": "https://github.com/lcsrodriguez/ENSIIE_S3_PAP_BLACK_SCHOLES_CPP/blob/main/docs/rapport.pdf",
         "project_techs": "C++, Python",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "2": {
         "project_title": "Financial market modeling - Various European options pricing tools",
@@ -15,7 +16,8 @@
         "project_date": "Mar. - Jun. 2021",
         "project_report": "https://github.com/lcsrodriguez/ENSIIE_S2_PROJET_MATHS/blob/main/rapport.pdf",
         "project_techs": "Python",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "3": {
         "project_title": "Design of a full self-driving vehicle & obstacle avoidance system",
@@ -24,7 +26,8 @@
         "project_date": "Jan. 2016 - Jan. 2018",
         "project_report": "-1",
         "project_techs": "C, Matlab, Python",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "4": {
         "project_title": "Numerical optimization of the maritime flows - Algorithmic analysis and cartographic application",
@@ -33,7 +36,8 @@
         "project_date": "Apr. 2019 - May 2020",
         "project_report": "https://github.com/lcsrodriguez/MP_TIPE/blob/main/docs/slides/diapo.pdf",
         "project_techs": "Python, SQL",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "5": {
         "project_title": "Complete web app for AI student club",
@@ -42,7 +46,8 @@
         "project_date": "2022",
         "project_report": "-1",
         "project_techs": "JS, PHP, MySQL, OAuth (proprietary API)",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "6": {
         "project_title": "DNA/RNA strands construction & Phylogenetic tree simulation",
@@ -51,7 +56,8 @@
         "project_date": "May. 2021 - Jun. 2021",
         "project_techs": "OCaml",
         "project_report": "https://github.com/lcsrodriguez/ENSIIE_S2_PROJET_PROG_FONC/blob/main/rapport.pdf",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "7": {
         "project_title": "Traffic Light Protocol (TLP) software implementation",
@@ -60,7 +66,8 @@
         "project_date": "Nov. 2021 - Jan. 2022",
         "project_techs": "Python (PyQt)",
         "project_report": "-1",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "8": {
         "project_title": "ConocoPhillips Predictive Equipment Failures  ",
@@ -69,7 +76,8 @@
         "project_date": "Forthcoming",
         "project_techs": "Python (data science libraries)",
         "project_report": "-1",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "9": {
         "project_title": "C board game implementation",
@@ -78,7 +86,8 @@
         "project_date": "Dec. 2020 - Jan. 2021",
         "project_techs": "C",
         "project_report": "https://github.com/lcsrodriguez/ENSIIE_S1_PROJET_IPI/blob/main/docs/rapport.pdf",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "10": {
         "project_title": "Cloned-IMDB app (PHP backend)",
@@ -87,7 +96,8 @@
         "project_date": "Mar. 2021 - Jun. 2021",
         "project_techs": "PHP, JS (pure), Bootstrap, PgSQL",
         "project_report": "-1",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "11": {
         "project_title": "Cloned-IMDB app (Python/FastAPI backend)",
@@ -96,7 +106,8 @@
         "project_date": "Sep. 2021 - Jan. 2022",
         "project_techs": "Python (FastAPI, sklearn, nltk)",
         "project_report": "-1",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "12": {
         "project_title": "Domestic network speedtest tool",
@@ -105,7 +116,8 @@
         "project_date": "Jun. 2021 - Aug. 2021",
         "project_techs": "Python",
         "project_report": "-1",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "13": {
         "project_title": "ownCloud/NextCloud software for scanning systems",
@@ -114,7 +126,8 @@
         "project_date": "Jun. 2021 - Aug. 2021",
         "project_techs": "Python, JS, PHP (API OwnCloud/NextCloud)",
         "project_report": "-1",
-        "project_type": "Pro"
+        "project_type": "Pro",
+        "project_package": "-1"
     },
     "14": {
         "project_title": "Document scanning request server & end-user stations",
@@ -123,7 +136,8 @@
         "project_date": "Jun. 2021 - Aug. 2021",
         "project_techs": "Python, JS, PHP (API OwnCloud/NextCloud)",
         "project_report": "-1",
-        "project_type": "Pro"
+        "project_type": "Pro",
+        "project_package": "-1"
     },
     "15": {
         "project_title": "Lottery statistics scraping, analysis, pattern recognition & covering systems reproduction",
@@ -132,7 +146,8 @@
         "project_date": "Aug. 2021 - Present",
         "project_techs": "Python",
         "project_report": "-1",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "16": {
         "project_title": "Personal portfolio",
@@ -141,7 +156,8 @@
         "project_date": "Dec. 2021 - Present",
         "project_techs": "JS (React), Web dev, gh pages",
         "project_report": "-1",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "17": {
         "project_title": "Data-extraction/formatting software for real-estate advertising",
@@ -150,7 +166,8 @@
         "project_date": "Oct. 2020 - Nov. 2020",
         "project_techs": "Python (opencv, xlsx & pdf handler), setuptools",
         "project_report": "-1",
-        "project_type": "Pro"
+        "project_type": "Pro",
+        "project_package": "-1"
     },
     "18": {
         "project_title": "Complete web app development for student club",
@@ -159,7 +176,8 @@
         "project_date": "Feb. 2021 - Jun. 2021",
         "project_techs": "PHP, JQuery, Bootstrap",
         "project_report": "-1",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "19": {
         "project_title": "Support Vector Machine implementation on breast cancer detection data",
@@ -168,7 +186,8 @@
         "project_date": "Apr. 2022",
         "project_techs": "Python",
         "project_report": "https://github.com/lcsrodriguez/intro-ml-assignment/blob/main/assignment.ipynb",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "20": {
         "project_title": "Fibonacci presentation",
@@ -177,7 +196,8 @@
         "project_date": "Mar. 2019",
         "project_techs": "Python",
         "project_report": "https://github.com/lcsrodriguez/fibonacci/blob/main/slides/slides.pdf",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "21": {
         "project_title": "Map Reduce paradigm implementation in OCaml",
@@ -186,7 +206,8 @@
         "project_date": "Apr. 2022",
         "project_techs": "OCaml",
         "project_report": "-1",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "22": {
         "project_title": "Geolocation and Sport performance analyzer",
@@ -195,7 +216,8 @@
         "project_date": "Apr. 2022 - Present",
         "project_techs": "Swift, Python (FastAPI)",
         "project_report": "https://pathboard.github.io",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "23": {
         "project_title": ".dat/.hea complete convert/export tool for ECG data analysis",
@@ -204,7 +226,8 @@
         "project_date": "Jul. 2022 - Aug. 2022",
         "project_techs": "Python",
         "project_report": "https://github.com/lcsrodriguez/headat-signals/README.md",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "24": {
         "project_title": "SuperTODO: LaTeX package for better TODO markups in report/thesis writing",
@@ -213,7 +236,8 @@
         "project_date": "Aug. 2022 - Sep. 2022",
         "project_techs": "TeX (LaTeX 2ε)",
         "project_report": "-1",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "25": {
         "project_title": "K-Medoids clustering (in R)",
@@ -222,7 +246,8 @@
         "project_date": "Nov. 2021 - Dec. 2021",
         "project_techs": "R, Python",
         "project_report": "-1",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "26": {
         "project_title": "Yahoo Finance - Real-time data collector",
@@ -231,7 +256,8 @@
         "project_date": "Sep. 2022 - ...",
         "project_techs": "Python, WebSockets, Protobuf",
         "project_report": "-1",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "27": {
         "project_title": "Statistical Methods for Asset Management (MATLAB, Python, R)",
@@ -240,7 +266,8 @@
         "project_date": "May. 2022 - Jul. 2022",
         "project_techs": "MATLAB, Python, R",
         "project_report": "-1",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "28": {
         "project_title": "Optimal Asset allocation methods - Economics of Financial Markets",
@@ -249,7 +276,8 @@
         "project_date": "Jun. 2022 - Jul. 2022",
         "project_techs": "Python",
         "project_report": "-1",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "29": {
         "project_title": "Complete web app for AI student club (GH version)",
@@ -258,7 +286,8 @@
         "project_date": "Aug. 2022",
         "project_techs": "JavaScript, Markdown, MkDocs for Material",
         "project_report": "-1",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "30": {
         "project_title": "Deep Learning practicals",
@@ -267,7 +296,8 @@
         "project_date": "Oct. 2022 - ...",
         "project_techs": "Python",
         "project_report": "-1",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "31": {
         "project_title": "Financial mathematics - Portfolio allocation analysis on CAC40 financial data (SQL querying)",
@@ -276,7 +306,8 @@
         "project_date": "Sep. 2022 - Oct. 2022",
         "project_techs": "SQL, Excel",
         "project_report": "-1",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "32": {
         "project_title": "Ice Quantity Predictive Classifier (Infrasound signals)",
@@ -285,7 +316,8 @@
         "project_date": "Oct. 2022 - Nov. 2022",
         "project_techs": "Python (pandas, scikit-learn, ...)",
         "project_report": "-1",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "33": {
         "project_title": "Blood Cell classifier using Computer Vision",
@@ -294,7 +326,8 @@
         "project_date": "Oct. 2022 - Jan. 2023",
         "project_techs": "Python (tensorflow, keras, scikit-learn, ...)",
         "project_report": "-1",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "34": {
         "project_title": "SABR volatility model for swaptions (calibration w/ market data)",
@@ -303,7 +336,8 @@
         "project_date": "Oct. 2022 - Nov. 2022",
         "project_techs": "Python",
         "project_report": "-1",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "35": {
         "project_title": "Functional Data Analysis & Transfer learning applications",
@@ -312,7 +346,8 @@
         "project_date": "Dec. 2022 - Jan. 2023",
         "project_techs": "Python",
         "project_report": "-1",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "36": {
         "project_title": "EO/AO pricer using FDM on BS PDE (VBA GUI)",
@@ -321,7 +356,8 @@
         "project_date": "Oct. 2022 - Jan. 2023",
         "project_techs": "C++, VBA",
         "project_report": "-1",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "37": {
         "project_title": "Intraday volatility estimation from high frequency data",
@@ -330,7 +366,8 @@
         "project_date": "Oct. 2022 - Jan. 2023",
         "project_techs": "Python (Forthcoming Q/KDB+ extension)",
         "project_report": "-1",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "38": {
         "project_title": "High Frequency Level 2 data analysis & LOB modelling",
@@ -339,7 +376,8 @@
         "project_date": "Mar. 2023 - Apr. 2023",
         "project_techs": "Python",
         "project_report": "-1",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "39": {
         "project_title": "Lifted Heston/Lifted Bergomi models implementation",
@@ -348,7 +386,8 @@
         "project_date": "Feb. 2023 - Mar. 2023",
         "project_techs": "Python",
         "project_report": "https://raw.githubusercontent.com/lcsrodriguez/Lifted-Heston-RoughVol/main/docs/report.pdf",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "40": {
         "project_title": "EUR/Oil option using CGMY/VG processes",
@@ -357,7 +396,8 @@
         "project_date": "Feb. 2023 - May. 2023",
         "project_techs": "-",
         "project_report": "",
-        "project_type": "A"
+        "project_type": "A",
+        "project_package": "-1"
     },
     "41": {
         "project_title": "ML/DL Crypto trading strategies & Backtest",
@@ -366,7 +406,8 @@
         "project_date": "Mar. 2023 - Apr. 2023",
         "project_techs": "Python",
         "project_report": "-1",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "42": {
         "project_title": "AIS streaming data handler",
@@ -375,7 +416,8 @@
         "project_date": "Jul. 2023",
         "project_techs": "Python",
         "project_report": "-1",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "43": {
         "project_title": "Household Energy Price Index data scraping",
@@ -384,7 +426,8 @@
         "project_date": "May. - Jun. 2023",
         "project_techs": "Python (requests, selenium, bs4)",
         "project_report": "-1",
-        "project_type": "Pro"
+        "project_type": "Pro",
+        "project_package": "-1"
     },
     "44": {
         "project_title": "Economic Calendar tool",
@@ -393,7 +436,8 @@
         "project_date": "Jun. - Jul. 2023",
         "project_techs": "Python (requests, selenium, bs4)",
         "project_report": "-1",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "45": {
         "project_title": "ICE - Historical prices gathering",
@@ -402,7 +446,8 @@
         "project_date": "Jul - Aug. 2023",
         "project_techs": "Python (requests, selenium, bs4)",
         "project_report": "-1",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "46": {
         "project_title": "FOREX historical prices gathering",
@@ -411,7 +456,8 @@
         "project_date": "Jul - Aug. 2023",
         "project_techs": "Python (requests, selenium, bs4)",
         "project_report": "-1",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "47": {
         "project_title": "qKucoin",
@@ -420,7 +466,8 @@
         "project_date": "Aug. 2023",
         "project_techs": "KDB+/Q",
         "project_report": "-1",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "48": {
         "project_title": "Yahoo Finance - Interactive ticker lookup tool",
@@ -429,7 +476,8 @@
         "project_date": "Sep. 2023",
         "project_techs": "Python (Fast API), HTML",
         "project_report": "-1",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "49": {
         "project_title": "Interactive Brokers - REST API wrapper",
@@ -438,7 +486,8 @@
         "project_date": "Aug. - Sep. 2023",
         "project_techs": "Python",
         "project_report": "-1",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "-1"
     },
     "50": {
         "project_title": "Earnings tool (Python package)",
@@ -447,6 +496,7 @@
         "project_date": "Dec. 2023",
         "project_techs": "Python",
         "project_report": "https://pypi.org/project/earnings/",
-        "project_type": "P"
+        "project_type": "P",
+        "project_package": "https://pypi.org/project/earnings/"
     }
 }
