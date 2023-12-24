@@ -495,7 +495,7 @@
         "project_git": "https://github.com/lcsrodriguez/earnings",
         "project_date": "Dec. 2023",
         "project_techs": "Python",
-        "project_report": "https://pypi.org/project/earnings/",
+        "project_report": "https://github.com/lcsrodriguez/earnings/blob/main/README.md",
         "project_type": "P",
         "project_package": "https://pypi.org/project/earnings/"
     }
