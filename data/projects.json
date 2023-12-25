@@ -437,7 +437,7 @@
         "project_techs": "Python (requests, selenium, bs4)",
         "project_report": "-1",
         "project_type": "P",
-        "project_package": "-1"
+        "project_package": "https://pypi.org/project/ecocal/"
     },
     "45": {
         "project_title": "ICE - Historical prices gathering",
