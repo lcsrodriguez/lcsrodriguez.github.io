@@ -1,0 +1,46 @@
+# `svc-web-redirect`
+
+Website app for [lcsrodriguez.github.io](https://lcsrodriguez.github.io) redirecting to main portfolio [lucasrodriguez.net](https://lucasrodriguez.net).
+
+
+## Redirect strategies
+
+2 types of redirect implemented:
+- **Soft redirect** := Wait web page for 2-3 sec + Redirect
+- **Hard redirect** := Immediate redirect
+
+
+Redirect target: `https://lucasrodriguez.net/?s=o`
+
+
+- `s` := source from the redirect operation *(variable name)*
+- `o` := old  *(variable value)*
+
+> [!NOTE]
+> `s` query parameter can be used for further analysis.
+
+
+Status code:
+- **303 See Other**: Most common (especially after POST, but safe in general)
+- **307 Temporary Redirect**: Keeps the original method
+- **308 Permanent Redirect**: For permanent moves (good for SEO)
+
+
+## Alternative redirect
+
+We can use the catch-all route ([...slug]) and redirect at route level:
+
+
+TS file: `src/routes/[...slug]/+page.server.js`
+
+```ts
+import { redirect } from '@sveltejs/kit';
+
+/** @type {import('./$types').PageServerLoad} */
+export function load() {
+	throw redirect(303, '/your-specific-url');
+}
+```
+
+> [!NOTE]
+> The hook method is better because it runs earlier and catches everything (including API routes, static assets if not excluded, etc.).
