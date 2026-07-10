@@ -1,7 +1,7 @@
 <script>
 	import { onMount } from 'svelte';
-	import { goto } from '$app/navigation';
-    import { redirect } from '@sveltejs/kit';
+	//import { goto } from '$app/navigation';
+    //import { redirect } from '@sveltejs/kit';
 
 
 	const targetUrl = "https://lucasrodriguez.net/?s=o"; // ← Change this
