@@ -20,9 +20,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
-    defaults:
-      run:
-        working-directory: ./svc-web-redirect
+    #defaults:
+    #  run:
+    #    working-directory: ./svc-web-redirect
 
     steps:
       - name: Checkout
@@ -49,16 +49,21 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-            path: ./svc-web-redirect/.svelte-kit
+            path: build/
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    
+    permissions:
+      pages: write
+      id-token: write
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
-      - name: Deploy to GitHub Pages
+      - name: Deploy
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5

@@ -64,3 +64,5 @@ bun run dev
 bun add -D @sveltejs/adapter-static
 bun run build
 ```
+
+> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
