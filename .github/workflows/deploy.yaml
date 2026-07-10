@@ -2,9 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   #push:
-  #  branches: [ main ]
-  release:
-    types: [ published ]
+  #  branches: ["main"]
   workflow_dispatch:
 
 permissions:
@@ -12,58 +10,43 @@ permissions:
   pages: write
   id-token: write
 
-#concurrency:
-#  group: "pages"
-#  cancel-in-progress: false
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    #defaults:
-    #  run:
-    #    working-directory: ./svc-web-redirect
-
     steps:
       - name: Checkout
-        uses: actions/checkout@v7
+        uses: actions/checkout@v4
 
       - name: Setup Bun
-        uses: oven-sh/setup-bun@v2.2.0
+        uses: oven-sh/setup-bun@v2
         with:
           bun-version: latest
 
       - name: Install dependencies
         run: bun install --frozen-lockfile
 
-      - name: Setup GitHub Pages
-        uses: actions/configure-pages@v6
-        with:
-          static_site_generator: sveltekit
-
       - name: Build
-        env:
-            BASE_PATH: /${{ github.event.repository.name }}
         run: bun run build
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v5
+        uses: actions/upload-pages-artifact@v3
         with:
-            path: 'build/'
+          path: "build"
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
-    
-    permissions:
-      pages: write
-      id-token: write
-
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
     steps:
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v5
+        uses: actions/deploy-pages@v4
