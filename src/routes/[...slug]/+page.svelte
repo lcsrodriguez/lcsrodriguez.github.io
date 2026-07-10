@@ -8,6 +8,15 @@
 	const waitTime = 10; // 2.5 seconds
 
 
+	onMount(() => {
+		// Hard redirect
+		//window.location.replace(targetUrl);
+ 
+		// Soft redirect
+        setTimeout(() => window.location.replace(targetUrl), 2500);
+	});
+
+    /*
     onMount(() => {
 		const timer = setTimeout(() => {
 			window.location.href = targetUrl;
@@ -15,6 +24,8 @@
 
 		return () => clearTimeout(timer);
 	});
+    */
+
     /*
 	onMount(() => {
 		const timer = setTimeout(() => {
