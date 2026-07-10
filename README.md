@@ -44,3 +44,23 @@ export function load() {
 
 > [!NOTE]
 > The hook method is better because it runs earlier and catches everything (including API routes, static assets if not excluded, etc.).
+
+
+## Hosting
+
+**GitHub Pages**: static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
+
+
+```
+SvelteKit source > SSG (via build) > Hosting on GH Pages
+```
+
+SSG := Static-Site Generation
+
+
+```shell
+bun run dev
+
+bun add -D @sveltejs/adapter-static
+bun run build
+```
