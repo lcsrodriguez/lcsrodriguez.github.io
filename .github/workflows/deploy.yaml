@@ -43,13 +43,13 @@ jobs:
 
       - name: Build
         env:
-          BASE_PATH: /${{ github.event.repository.name }}
+            BASE_PATH: /${{ github.event.repository.name }}
         run: bun run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./svc-web-redirect/build
+            path: ./svc-web-redirect/build
 
   deploy:
     needs: build

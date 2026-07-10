@@ -7,12 +7,12 @@ const config = {
 
     kit: {
         adapter: adapter({
-            fallback: '404.html'   // Important for GitHub Pages (SPA-like routing)
+            fallback: '404.html'
         }),
 
-        //paths: {
-        //    base: process.env.BASE_PATH || ''
-        //}
+        paths: {
+            base: process.env.BASE_PATH || ''
+        }
     }
 };
 
