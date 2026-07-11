@@ -1,5 +1,11 @@
 # `svc-web-redirect`
 
+
+[![CI Lint](https://github.com/lcsrodriguez/lcsrodriguez.github.io/actions/workflows/ci.yaml/badge.svg)](https://github.com/lcsrodriguez/lcsrodriguez.github.io/actions/workflows/ci.yaml)
+
+[![Deploy to GitHub Pages](https://github.com/lcsrodriguez/lcsrodriguez.github.io/actions/workflows/deploy.yaml/badge.svg)](https://github.com/lcsrodriguez/lcsrodriguez.github.io/actions/workflows/deploy.yaml)
+
+
 Website app for [lcsrodriguez.github.io](https://lcsrodriguez.github.io) redirecting to main portfolio [lucasrodriguez.net](https://lucasrodriguez.net).
 
 ## Redirect strategies
