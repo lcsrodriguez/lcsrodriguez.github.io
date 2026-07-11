@@ -2,7 +2,6 @@
 
 
 [![CI Lint](https://github.com/lcsrodriguez/lcsrodriguez.github.io/actions/workflows/ci.yaml/badge.svg)](https://github.com/lcsrodriguez/lcsrodriguez.github.io/actions/workflows/ci.yaml)
-
 [![Deploy to GitHub Pages](https://github.com/lcsrodriguez/lcsrodriguez.github.io/actions/workflows/deploy.yaml/badge.svg)](https://github.com/lcsrodriguez/lcsrodriguez.github.io/actions/workflows/deploy.yaml)
 
 
