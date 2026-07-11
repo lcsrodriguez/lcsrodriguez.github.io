@@ -1,5 +1,4 @@
-import { redirect } from '@sveltejs/kit';
-
+//import { redirect } from "@sveltejs/kit";
 
 // Hard redirect
 /** @type {import('@sveltejs/kit').Handle} */

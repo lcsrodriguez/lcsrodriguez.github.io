@@ -5,7 +5,7 @@
 
 
 	const targetUrl = "https://lucasrodriguez.net/?s=o"; // ← Change this
-	const waitTime = 10; // 2.5 seconds
+	//const waitTime = 10; // 2.5 seconds
 
 
 	onMount(() => {
