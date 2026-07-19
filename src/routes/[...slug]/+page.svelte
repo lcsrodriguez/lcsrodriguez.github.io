@@ -61,7 +61,7 @@
 		align-items: center;
 		justify-content: center;
 		text-align: center;
-		background: #f8f9fa;
+		background: #ffffff;
 		color: #333;
 	}
 
